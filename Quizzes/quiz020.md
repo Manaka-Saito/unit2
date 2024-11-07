@@ -2,6 +2,9 @@
 
 <img width="1171" alt="Screenshot 2024-11-07 at 20 21 27" src="https://github.com/user-attachments/assets/6cbb99d9-5130-4a73-b65c-f0cae3137d95">
 
+## Proof of Work
+
+![IMG_9546](https://github.com/user-attachments/assets/04d3f8ae-3666-4dc1-8cae-a0d87e322273)
 
 ## Code
 
