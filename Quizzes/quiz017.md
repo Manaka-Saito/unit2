@@ -3,6 +3,7 @@
 
 ## Paper Solution
 
+![IMG_9557](https://github.com/user-attachments/assets/9baefaa7-f552-4019-9241-81599326384c)
 
 
 ## Code 
