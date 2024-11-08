@@ -4,6 +4,7 @@
 
 ## Paper Solution
 
+![IMG_9553](https://github.com/user-attachments/assets/e817e1fc-4c81-49fa-a426-b4ceca32742d)
 
 
 ## Code 
