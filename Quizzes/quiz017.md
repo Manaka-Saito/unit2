@@ -4,7 +4,12 @@
 ## Paper Solution
 
 
+
 ## Code 
+
+<img width="445" alt="Screenshot 2024-11-08 at 15 58 55" src="https://github.com/user-attachments/assets/deedc53e-9354-433e-b97d-478a81af91f3">
 
 
 ## Proof of Work
+
+<img width="1037" alt="Screenshot 2024-11-08 at 15 57 46" src="https://github.com/user-attachments/assets/96b30b19-0be6-4590-8d81-25236411c9b2">
