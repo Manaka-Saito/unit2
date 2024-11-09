@@ -3,7 +3,7 @@
 
 ## Paper Solution
 
-![IMG_9557](https://github.com/user-attachments/assets/9baefaa7-f552-4019-9241-81599326384c)
+![IMG_9581](https://github.com/user-attachments/assets/5a5f1dfe-ee7b-4504-902d-d3f339b59436)
 
 
 ## Code 
