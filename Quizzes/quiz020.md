@@ -5,7 +5,7 @@
 ## Proof of Work
 
 ![IMG_9586](https://github.com/user-attachments/assets/3a948f6f-4c9c-41b5-b05b-6fc18e37f08a)
-![IMG_9546](https://github.com/user-attachments/assets/04d3f8ae-3666-4dc1-8cae-a0d87e322273)
+![IMG_9546](https://github.com/user-attachments/assets/04d3f8ae-3666-4dc1-8cae-a0d87e322273) 
 
 ## Code 
 
