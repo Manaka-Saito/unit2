@@ -1,11 +1,12 @@
 # This is quiz 024
-
+not uploaded yet
 
 
 
 ## Paper Solution
 
 
+![IMG_9588](https://github.com/user-attachments/assets/36f1c357-8ddc-47b3-984a-c38e5384a2ce)
 
 ## Code
 
