@@ -1,6 +1,6 @@
 # This is quiz 021
 
-<img width="1165" alt="Screenshot 2024-11-07 at 20 53 59" src="https://github.com/user-attachments/assets/d37ba7a3-aee7-4334-b335-bc24f0ea59ff">
+<img width="1165" alt="Screenshot 2024-11-07 at 20 53 59" src="https://github.com/user-attachments/assets/d37ba7a3-aee7-4334-b335-bc24f0ea59ff"> 
 
 ## Paper Solution
 
