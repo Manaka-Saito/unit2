@@ -10,9 +10,9 @@
 
 ## Code
 
-<img width="750" alt="Screenshot 2024-11-10 at 11 07 52" src="https://github.com/user-attachments/assets/bae320e1-b82a-42d8-bb32-f32c3b0f7e1b">
+<img width="max" alt="Screenshot 2024-11-11 at 11 37 43" src="https://github.com/user-attachments/assets/6b378825-db5c-4f62-a23e-7396bba94067">
 
 
 ## Proof of Work
 
-<img width="1077" alt="Screenshot 2024-11-10 at 11 07 32" src="https://github.com/user-attachments/assets/20a2519a-f9ac-4824-b615-498cba8761fa">
+<img width="max" alt="Screenshot 2024-11-11 at 11 37 56" src="https://github.com/user-attachments/assets/a88bad8e-7064-499c-be59-4c37165643ac">
