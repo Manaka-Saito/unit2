@@ -1,10 +1,8 @@
 # This is quiz 024
-not uploaded yet
-
+<img width="max" alt="Screenshot 2024-11-14 at 17 30 18" src="https://github.com/user-attachments/assets/121cfc31-a11c-4252-aa3d-4753eb45929e">
 
 
 ## Paper Solution 
-
 
 ![IMG_9588](https://github.com/user-attachments/assets/36f1c357-8ddc-47b3-984a-c38e5384a2ce)
 
