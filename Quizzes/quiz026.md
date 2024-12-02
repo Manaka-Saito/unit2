@@ -3,7 +3,7 @@
 <img width="max" alt="Screenshot 2024-11-20 at 19 31 02" src="https://github.com/user-attachments/assets/fbf94d97-d154-45f4-b720-ba26c7da4d0d">
 
 ## Paper Solution
-
+ 
 ![image](https://github.com/user-attachments/assets/45196c25-7d4a-459c-92dd-7293f50abac0)
 
 
