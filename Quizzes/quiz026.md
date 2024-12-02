@@ -4,7 +4,7 @@
 
 ## Paper Solution
 
-![image](https://github.com/user-attachments/assets/bf3e5653-8e2d-4756-b45b-1bd3c65ff463)
+![image](https://github.com/user-attachments/assets/45196c25-7d4a-459c-92dd-7293f50abac0)
 
 
 ## Code
