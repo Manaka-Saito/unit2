@@ -12,6 +12,7 @@
 ## Code
 <img width="max" alt="Screenshot 2024-12-02 at 23 06 52" src="https://github.com/user-attachments/assets/035a63f0-312b-4e14-bba8-989270ddccbb">
 <img width="max" alt="Screenshot 2024-12-02 at 23 07 19" src="https://github.com/user-attachments/assets/de66d49f-199d-4b03-b99d-20c5a0485cb6">
+<img width="max" alt="Screenshot 2024-12-03 at 10 50 12" src="https://github.com/user-attachments/assets/cd642db9-7212-4c4e-8a84-04ffa97fa9b6">
 
 
 ## Proof of Work
